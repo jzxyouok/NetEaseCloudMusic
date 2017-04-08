@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <group>
+            <item
+                android:id="@+id/nav_call"
+                android:icon="@drawable/ic_phone_in_talk_black_24dp"
+                android:title="我的消息" />
+            <item
+                android:id="@+id/nav_friends"
+                android:icon="@drawable/ic_group_black_24dp"
+                android:title="会员中心" />
+            <item
+                android:id="@+id/nav_mail"
+                android:icon="@drawable/ic_markunread_black_24dp"
+                android:title="商城" />
+            <item
+                android:icon="@drawable/ic_markunread_black_24dp"
+                android:title="在线听歌免流量" />
+        </group>
+
+        <group>
+            <item
+                android:icon="@drawable/ic_markunread_black_24dp"
+                android:title="我的好友" />
+            <item
+                android:icon="@drawable/ic_markunread_black_24dp"
+                android:title="附近的人" />
+        </group>
+        <group>
+            <item
+                android:icon="@drawable/ic_markunread_black_24dp"
+                android:title="个性换肤" />
+            <item
+                android:icon="@drawable/ic_markunread_black_24dp"
+                android:title="听歌识曲" />
+            <item
+                android:icon="@drawable/ic_markunread_black_24dp"
+                android:title="定时停止播放" />
+            <item
+                android:icon="@drawable/ic_markunread_black_24dp"
+                android:title="音乐闹钟" />
+            <item
+                android:icon="@drawable/ic_markunread_black_24dp"
+                android:title="驾车模式" />
+            <item
+                android:icon="@drawable/ic_markunread_black_24dp"
+                android:title="我的云盘" />
+        </group>
+
+
+    </group>
+</menu>

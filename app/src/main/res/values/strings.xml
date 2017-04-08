@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DianMusic</string>
+    <string name="search_words_hint">搜索音乐、歌手、歌词、用户</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="30dp"
+    android:layout_marginBottom="7dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="1dp"
+    android:background="@drawable/flow_layout_item_shape"
+    android:shadowDx="0"
+    android:shadowDy="0"
+    android:shadowRadius="0"
+    android:textAllCaps="false"
+    android:textSize="40px"
+    android:textStyle="normal"
+    android:typeface="sans">
+
+</Button>
