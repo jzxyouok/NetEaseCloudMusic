@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/id_music_search_response_activity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/id_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/Theme.AppCompat.Light">
+
+        <EditText
+            android:id="@+id/id_search_words_edit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/search_words_hint"
+            android:imeOptions="actionSearch"
+            android:singleLine="true"
+            android:maxLines="1"/>
+    </android.support.v7.widget.Toolbar>
+
+    <HorizontalScrollView
+        android:id="@+id/id_music_search_response_scrollview"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:scrollbars="none">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/id_search_words_edit_response_tab_song"
+                    android:gravity="top|bottom"
+                    android:textSize="14dp"
+                    android:textColor="#cc3300"
+                    android:paddingRight="25dp"
+                    android:paddingLeft="25dp"
+
+                    android:text="单曲"/>
+
+                <TextView
+                    android:id="@+id/id_search_words_edit_response_tab_singer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="top|bottom"
+                    android:textSize="14dp"
+                    android:paddingRight="25dp"
+                    android:paddingLeft="25dp"
+
+                    android:text="歌手"/>
+
+                <TextView
+                    android:id="@+id/id_search_words_edit_response_tab_album"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="top|bottom"
+                    android:textSize="14dp"
+                    android:paddingRight="25dp"
+                    android:paddingLeft="25dp"
+
+                    android:text="专辑"/>
+
+                <TextView
+                    android:id="@+id/id_search_words_edit_response_tab_songlist"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="top|bottom"
+                    android:textSize="14dp"
+                    android:paddingRight="25dp"
+                    android:paddingLeft="25dp"
+
+                    android:text="歌单"/>
+
+                <TextView
+                    android:id="@+id/id_search_words_edit_response_tab_mv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="top|bottom"
+                    android:textSize="14dp"
+                    android:paddingRight="25dp"
+                    android:paddingLeft="25dp"
+                    android:text="MV"/>
+
+                <TextView
+                    android:id="@+id/id_search_words_edit_response_tab_radio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="top|bottom"
+                    android:paddingRight="25dp"
+                    android:paddingLeft="25dp"
+                    android:textSize="14dp"
+                    android:text="主播电台"/>
+
+                <TextView
+                    android:id="@+id/id_search_words_edit_response_tab_user"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="top|bottom"
+                    android:textSize="14dp"
+                    android:paddingRight="25dp"
+                    android:paddingLeft="25dp"
+                    android:text="用户"/>
+
+            </LinearLayout>
+            <ImageView
+                android:id="@+id/id_search_words_edit_response_tab_indicator"
+                android:layout_width="wrap_content"
+                android:layout_height="2dp"
+                android:background="#CC3300"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/id_search_words_edit_response_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>
