@@ -3,75 +3,48 @@
 
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\Administrator\.android\build-cache\3dcc2d0484c19478b87181ed78e82c25238e594d\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e9527ec147118306513425685f6a6d298ba25cc7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_679c2136945d9db30a950012f9779d4709b4224d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_a7c78ad04b12786fc23b2aeeff608804da80de66\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_875f1b4e2d8f60c98734ffe7ad934d5d5e2650df\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
+        revision="25.0.0"
         sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_ea3629ba5d0bc54d444ef6bf42f9b2ff7ba65d65\classes.dex" />
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb942e85d81e0212cc1557b573c5042513e25485\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Administrator\.android\build-cache\770577eba5045c5ad9fb0e9c9fd1b852ffb59fd6\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="10d362757062202144170cb21a26f3bd18fbbc77">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e4d8c10f6332e45bc85dec93d057af54c47fb356\classes.dex" />
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6addee7de411932677b52401e359d9d1dbe4d422\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jar="C:\Users\Administrator\.android\build-cache\9de737413b8b5d1d93eba31e33d98addd4b41e97\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b5eda44371a078c81da42557562e866aece3a79b\classes.dex" />
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8bdaa8c8f528cdf41c21418e30168aada12a1084\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\Administrator\.android\build-cache\8be1c03d108eadf458d07b6cf09213d98fb19b84\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5541d4258ceadd88d35567023671d4ac17c27e41\classes.dex" />
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e073b1dfbb6190db08e89a085d646a361450cd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\f8a0cfc78db11c5a61f3eb1684a607962d846e9b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a1757b12957ae371f0da38f83d507a34326214eb\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -84,6 +57,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\b7d1c301f939e536b1a868d0c4fd7fc182ff1722\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80158db4a662fab35d553775dfd6badfb88c4d92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
         jumboMode="true"
         optimize="true"
@@ -93,57 +75,48 @@
     </item>
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\Administrator\.android\build-cache\770577eba5045c5ad9fb0e9c9fd1b852ffb59fd6\output\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5c6ee47a3d3cb834704213ce3b266dc559228b12\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_5cb2e70a222d52d45cd605d98d782e46991b99ac\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
+        revision="25.0.0"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_80782def2337febb2249912db90f63c623fbda7d\classes.dex" />
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0a937b1a07d1bd9b19b0e1b1ef883746c0bfc3c0\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jar="C:\Users\Administrator\.android\build-cache\63322a6b14a54cdd3fc7c137d1de4aa03acab70e\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_96af70c7e03fa90ecf3542c1cd1e9a82c63fab89\classes.dex" />
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88fb7da585d0e99b33d16bd99a91871a4cbbbb0c\classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="F:\AndroidStudioProjects\Music\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="8eb9d41bce8c6c5b46db7f20b6ee8bc781cd106d">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4e920fd19b4bf934a86baef6ed7434c40fed243c\classes.dex" />
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4e920fd19b4bf934a86baef6ed7434c40fed243c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jar="C:\Users\Administrator\.android\build-cache\f2fbddd4041c9949fff3a8f23d191110670af544\output\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_53ad42b1061683f0a256e9e7f99d5c3cee0c7a78\classes.dex" />
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7766d9f3d98c6906d559bedb1f17e1c3849c305e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\f8a0cfc78db11c5a61f3eb1684a607962d846e9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15ec03e950addaf4b2b9770e60457aab1181e95c\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -156,39 +129,93 @@
     </item>
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
+        revision="25.0.0"
+        sha1="3edbf6f8964e6c83441331f66b7d45a17a210004">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e4d8c10f6332e45bc85dec93d057af54c47fb356\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\f2fbddd4041c9949fff3a8f23d191110670af544\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_58f59043e77e43d7589205e4a0803196c2a56761\classes.dex" />
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_361a87a0f3211e062b475a00035e4c50f18d2993\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_40391f18e289b4b53049170289dc554a2a909f5c\classes.dex" />
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_1d559e7ed20d144e0afcd6b12511adab899fb1e6\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jar="C:\Users\Administrator\.android\build-cache\3482528eab71d8db5ba083d88cbdda57602ef84c\output\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9c2f895bd2b55dc3186a1c7e934bd2c978a394d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\3482528eab71d8db5ba083d88cbdda57602ef84c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06637fa2f4adf3baf1106998083a4360085095ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_893d7cba6fd833c845f42c6194f7ff7a73716aa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\49252a3e0a4f6c59cc58d93ae0a34e88922da4bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6dc2bc1efc896bcbd73b84182709fe03541d446\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\c3631d4cf60bf9a902b71cd0e5f64349566290fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_62b3c13fce08fb93d8432441c5615c9f2de7e30d\classes.dex" />
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d39462d0787d68dd908779a75183cffb28d1599f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jar="C:\Users\Administrator\.android\build-cache\49252a3e0a4f6c59cc58d93ae0a34e88922da4bd\output\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_5fc998c462ba040a9063bc51233dfb5d049b4042\classes.dex" />
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9d193097ad43c446132fce74019e113ea410cf17\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -201,12 +228,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioProjects\Music\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\Administrator\.android\build-cache\16a6f1cf4972ec9c8da81a5064cf541c06a02e10\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9638603c4aff773528955ba145fc4e7cdd6aa3da\classes.dex" />
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8a6cd5d617659b1dfc1b3630dc1ae2304f80cb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="F:\AndroidStudioProjects\Music\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_1efc6a5eb9346389ba0de2f5ee10a5fa311da347\classes.dex" />
     </item>
 
 </items>
